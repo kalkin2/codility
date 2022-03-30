@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BinaryGapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-30T13:07:15" hostname="DESKTOP-P23OCLG" time="0.032">
+  <properties/>
+  <testcase name="solution()" classname="BinaryGapTest" time="0.032"/>
+  <system-out><![CDATA[22:07:15.655 [Test worker] DEBUG BinaryGapTest - num1:1041,  bnum1:10000010001
+22:07:15.662 [Test worker] DEBUG BinaryGapTest - num2:15, bnum2:1111
+22:07:15.662 [Test worker] DEBUG BinaryGapTest - num3:32, bnum3:100000
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,3 @@
+P22:07:15.655 [Test worker] DEBUG BinaryGapTest - num1:1041,  bnum1:10000010001
+F22:07:15.662 [Test worker] DEBUG BinaryGapTest - num2:15, bnum2:1111
+H22:07:15.662 [Test worker] DEBUG BinaryGapTest - num3:32, bnum3:100000
